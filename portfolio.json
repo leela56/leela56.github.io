@@ -1,0 +1,157 @@
+{
+  "name": "Leela Sai Nimmagadda",
+  "label": "Data Engineer",
+  "image_path": "img/portfoliodp.png",
+  "contact": {
+    "email": "n.leelasaikiran@gmail.com",
+    "phone": "469-269-6774",
+    "location": "Dallas, Texas"
+  },
+  "summary": "Experienced Data Engineer with 4+ years in designing and automating robust ETL pipelines for real-time and batch data using Azure, Databricks, Apache Spark, and Delta Lake. Proficient in handling large-scale data processing, streamlining insurance claim data workflows, and building analytics-ready data products for actuarial and fraud detection teams. Passionate about cloud data engineering, machine learning, and predictive stock analysis.",
+  "base_url": "127.0.0.1:5500",
+  "social_links": [
+    {
+      "label": "LinkedIn",
+      "url": "https://www.linkedin.com/in/leelasaikiran/",
+      "svg_path": "img/linkedin.svg"
+    },
+    {
+      "label": "GitHub",
+      "url": "https://github.com/leela56",
+      "svg_path": "img/github.svg"
+    }
+  ],
+  "work_experience": [
+    {
+      "company": "Quadlight Corp",
+      "position": "Data Engineer",
+      "url": "https://sample.com",
+      "start_date": "05/01/2022",
+      "end_date": "08/01/2024",
+      "summary": "Built real-time and batch data pipelines using Azure Event Hubs, Azure Data Lake, Apache Spark, and Databricks for an insurance domain project.",
+      "highlights": [
+        "Automated claims data ingestion from Azure Data Lake Storage to Azure SQL Database using Databricks workflows.",
+        "Handled batch and streaming data to support fraud detection and reporting dashboards in Power BI.",
+        "Implemented Delta Lake Bronze-Silver-Gold architecture for scalable, audit-friendly pipelines."
+      ]
+    },
+    {
+      "company": "EPT IT Solutions",
+      "position": "Software Engineer",
+      "url": "https://sample.com",
+      "start_date": "01/01/2021",
+      "end_date": "04/01/2022",
+      "summary": "Developed backend components and managed data integration using Python and Azure services.",
+      "highlights": [
+        "Built REST APIs and ETL scripts for client-facing applications using Python and FastAPI.",
+        "Used Azure Functions and Blob Storage for automating daily data loads.",
+        "Worked with Azure DevOps for CI/CD pipeline and deployment automation."
+      ]
+    },
+    {
+      "company": "University of Dayton",
+      "position": "Python Developer Intern",
+      "url": "https://sample.com",
+      "start_date": "01/01/2020",
+      "end_date": "12/01/2020",
+      "summary": "Created Python utilities and automation scripts to assist research and IT teams.",
+      "highlights": [
+        "Developed tools for automating academic data processing and analytics.",
+        "Integrated data from multiple APIs and internal databases for reports.",
+        "Used Pandas, NumPy, and Matplotlib for data processing and visualization."
+      ]
+    }
+  ],
+  "projects": [
+    {
+      "title": "Automated Insurance Claims Data Pipeline",
+      "summary": "Built real-time and batch pipelines for processing insurance claims data using Azure Event Hubs, Databricks, and Delta Lake architecture.",
+      "url": "https://sample.com",
+      "highlights": [
+        "Streamed and transformed claim data using structured streaming in Databricks.",
+        "Developed audit-ready Silver and Gold Delta tables for downstream analytics.",
+        "Enabled better fraud detection insights through cleaned, enriched data."
+      ],
+      "images": []
+    },
+    {
+      "title": "Stock Market Prediction Pipeline",
+      "summary": "Designed a predictive analytics pipeline for NVDA and AAPL stocks using Yahoo Finance API and Databricks.",
+      "url": "https://sample.com",
+      "highlights": [
+        "Captured real-time stock data via Event Hubs and structured streaming.",
+        "Transformed and aggregated data using Spark SQL and ML models.",
+        "Built Gold layer features to feed time-series forecasting models."
+      ],
+      "images": []
+    }
+  ],
+  "volunteer_experience": [],
+  "education": [
+    {
+      "institution": "University of Dayton",
+      "location": "Dayton, Ohio",
+      "url": "https://udayton.edu",
+      "degrees": [
+        "Master of Science in Computer Science"
+      ],
+      "honors": ["Dean's List"],
+      "gpa_cumulative": "3.5",
+      "gpa_major": "4.0",
+      "graduation_date": "12/01/2020"
+    }
+  ],
+  "skills": [
+    {
+      "name": "Apache Spark & Databricks",
+      "proficiency": 95,
+      "proficiency_label": "Expert"
+    },
+    {
+      "name": "Azure (Data Lake, Event Hubs, Functions)",
+      "proficiency": 90,
+      "proficiency_label": "Advanced"
+    },
+    {
+      "name": "Python & PySpark",
+      "proficiency": 95,
+      "proficiency_label": "Expert"
+    },
+    {
+      "name": "SQL & Data Modeling",
+      "proficiency": 90,
+      "proficiency_label": "Advanced"
+    },
+    {
+      "name": "Delta Lake Architecture",
+      "proficiency": 85,
+      "proficiency_label": "Advanced"
+    },
+    {
+      "name": "Power BI",
+      "proficiency": 80,
+      "proficiency_label": "Intermediate"
+    }
+  ],
+  "interests": [
+    {
+      "name": "Stock Market Analysis",
+      "summary": "Enjoy building predictive models and real-time dashboards for stock market trends."
+    },
+    {
+      "name": "Cloud Automation",
+      "summary": "Passionate about orchestrating data workflows and optimizing cloud-native solutions."
+    }
+  ],
+  "languages": [
+    {
+      "language": "English",
+      "fluency": "Fluent"
+    },
+    {
+      "language": "Telugu",
+      "fluency": "Native speaker"
+    }
+  ],
+  "references": []
+}
