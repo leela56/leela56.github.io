@@ -7,7 +7,7 @@
     "phone": "469-269-6774",
     "location": "Dallas, Texas"
   },
-  "summary": "Experienced Data Engineer with 4+ years in designing and automating robust ETL pipelines for real-time and batch data using Azure, Databricks, Apache Spark, and Delta Lake. Proficient in handling large-scale data processing, streamlining insurance claim data workflows, and building analytics-ready data products for actuarial and fraud detection teams. Passionate about cloud data engineering, machine learning, and predictive stock analysis.",
+  "summary": "Data Engineer with 4+ years of experience in designing and automating robust ETL pipelines for real-time and batch data using Azure, Databricks, Apache Spark, and Delta Lake. Proficient in handling large-scale data processing, streamlining insurance claim data workflows, and building analytics-ready data products for actuarial and fraud detection teams. Passionate about cloud data engineering, machine learning, and predictive stock analysis.",
   "base_url": "127.0.0.1:5500",
   "social_links": [
     {
